@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bobh55
-- 👀 I’m interested in in python 
-- 🌱 I’m currently learning eDirectory
-- 💞️ I’m looking to collaborate on django
+- 👀 I’m interested in C 
+- 🌱 I’m currently learning Networking and cloud computing
 - 📫 How to reach me via email: hajebocson@gmail.com
 
 <!---
