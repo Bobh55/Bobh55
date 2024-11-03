@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bobh55
+- 👋 Hi, I’m @Bosco
 - 👀 I’m interested in C 
 - 🌱 I’m currently learning Networking and cloud computing
 - 📫 How to reach me via email: hajebocson@gmail.com
